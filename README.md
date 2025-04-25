@@ -63,7 +63,9 @@ The project follows a structured pipeline:
 
 
 
-**Sentiment Distribution:** Most reviews are positive (50,685), followed by neutral (30,401) and negative (16,712), indicating general user satisfaction but highlighting areas for improvement.
+**Sentiment Distribution:**
+
+Most reviews are positive (50,685), followed by neutral (30,401) and negative (16,712), indicating general user satisfaction but highlighting areas for improvement.
 
 
 
@@ -127,18 +129,18 @@ Analyze negative reviews in-depth to address recurring pain points.
 **Repository Structure**
 
 
+**Predictive_modeling_of_Churn_Using_Sentiment_Analysis.docs:** Documents the objective, research methodology, analysis and findings.
+
+
+**web_scraping.py:** Python script for scraping reviews from the Google Play Store.
 
 
 
-web_scraping.py: Python script for scraping reviews from the Google Play Store.
+**analysis.py:** Python script for data preprocessing, sentiment analysis, clustering, hypothesis testing, and predictive modeling.
 
 
 
-analysis.py: Python script for data preprocessing, sentiment analysis, clustering, hypothesis testing, and predictive modeling.
-
-
-
-README.md: Project description and setup instructions.
+**README.md:** Project description and setup instructions.
 
 
 
