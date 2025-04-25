@@ -206,7 +206,7 @@ Libraries: pandas, numpy, matplotlib, seaborn, textblob, scikit-learn, scipy, go
 
 
 
-Annanya Singh (Regd. No.: 23375010)
+Annanya Singh 
 
-Hrithik Dineshan (Regd. No.: 20384308)
+Hrithik Dineshan 
 
